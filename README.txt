@@ -7,9 +7,4 @@ Run with sudo
 Check your new hostid by using command
 > hostid
 
-P.S - System restart might be requiered
-
-----
-2019
-@emeykey
-----
+System restart might be requiered
